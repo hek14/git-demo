@@ -4,3 +4,4 @@ b = 2
 "test for add"
 "appear"
 "this is branch dev"
+"merge conflict"
